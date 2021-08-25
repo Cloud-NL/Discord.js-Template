@@ -7,15 +7,18 @@
 # 3 Open your terminal or cmd
 
 # 4 Type:
-``` npm i discord.js
+```sh 
+npm i discord.js
 ```
 
 # 5 Type:
-```npm i fs
+```sh
+npm i fs
 ```
 
 # 6 Type:
-``` npm i path
+```sh 
+npm i path
 ```
 
 # 7 To start your bot type in your terminal or cmd:
