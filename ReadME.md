@@ -22,5 +22,6 @@ npm i path
 ```
 
 # 7 To start your bot type in your terminal or cmd:
-``` node .
+```sh 
+node .
 ```
