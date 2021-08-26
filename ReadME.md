@@ -1,11 +1,11 @@
-# Discord.js bot template
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+# Discord.js bot template
 
 # 1 Install node https://nodejs.org/en/ download 16 or higher
 
